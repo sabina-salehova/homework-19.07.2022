@@ -1,0 +1,26 @@
+[
+    {
+        "name":"Vali",
+        "surname":"Akbarov",
+        "position": "devoloper",
+        "image": "https://cdn-icons-png.flaticon.com/512/146/146007.png"
+    },
+    {
+        "name":"Ali",
+        "surname":"Babayev",
+        "position": "doctor",
+        "image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/man-vector-design-template-1ba90da9b45ecf00ceb3b8ae442ad32c_screen.jpg?ts=1601484738"
+    },
+    {
+        "name":"Gulnar",
+        "surname":"Asadov",
+        "position": "director",
+        "image": "https://cdn.icon-icons.com/icons2/2643/PNG/512/avatar_female_woman_person_people_white_tone_icon_159360.png"
+    },
+    {
+        "name":"Murad",
+        "surname":"Verdiyev",
+        "position": "devoloper",
+        "image": "https://icon-library.com/images/boy-icon-png/boy-icon-png-10.jpg"
+    }
+]
